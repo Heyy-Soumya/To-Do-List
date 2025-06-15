@@ -9,5 +9,5 @@
 | Filter: All            | Click "All" button                                           | Displays all tasks                                                    |
 | Filter: Active         | Click "Active" button                                        | Displays only incomplete tasks                                        |
 | Filter: Completed      | Click "Completed" button                                     | Displays only completed tasks                                         |
-| Sort Tasks A-Z/Z-A     | Click "Sort A-Z" button                                      | Tasks reorder alphabetically in ascending order                       |
+| Sort Tasks A-Z         | Click "Sort A-Z" button                                      | Tasks reorder alphabetically in ascending order                       |
 | Persistence Check      | Add/complete/delete tasks → refresh page                     | All changes should remain (stored in `localStorage`)                  |
