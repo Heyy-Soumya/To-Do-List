@@ -87,7 +87,6 @@ function App() {
         <button onClick={() => handleFilter('completed')}>Completed</button>
         <button onClick={handleSort}>Sort {sortAsc ? 'A-Z' : 'Z-A'}</button>
       </div>
-
       <ul>
         {getFilteredTasks().map((t) => (
           <li key={t.id}>
